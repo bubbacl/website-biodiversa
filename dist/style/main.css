@@ -691,35 +691,35 @@ pre {
 .no-gutters {
   margin-right: 0;
   margin-left: 0; }
-  .no-gutters > .col, .home .no-gutters > .text, .integrales-eficientes .no-gutters > .title, .residuos .no-gutters > .title, .analisis-monitoreo .no-gutters > .title,
+  .no-gutters > .col, .home .no-gutters > .text, .integrales-eficientes .no-gutters > .title, .analisis-monitoreo .no-gutters > .title, .residuos .no-gutters > .title,
   .no-gutters > [class*="col-"] {
     padding-right: 0;
     padding-left: 0; }
 
-.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .politica-integrada-extra .item, .organizacion .title, .organizacion .ejecutivos, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .residuos .item, .tratamiento-riles .img, .tratamiento-riles .title, .tratamiento-riles .item, .analisis-monitoreo .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .sucursales .title, .sucursales .item, .col-11, .col-12, .residuos .img, .analisis-monitoreo .img, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .residuos .title, .analisis-monitoreo .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
   position: relative;
   width: 100%;
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px; }
   @media (min-width: 576px) {
-    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .politica-integrada-extra .item, .organizacion .title, .organizacion .ejecutivos, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .residuos .item, .tratamiento-riles .img, .tratamiento-riles .title, .tratamiento-riles .item, .analisis-monitoreo .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .sucursales .title, .sucursales .item, .col-11, .col-12, .residuos .img, .analisis-monitoreo .img, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .residuos .title, .analisis-monitoreo .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
       padding-right: 15px;
       padding-left: 15px; } }
   @media (min-width: 768px) {
-    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .politica-integrada-extra .item, .organizacion .title, .organizacion .ejecutivos, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .residuos .item, .tratamiento-riles .img, .tratamiento-riles .title, .tratamiento-riles .item, .analisis-monitoreo .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .sucursales .title, .sucursales .item, .col-11, .col-12, .residuos .img, .analisis-monitoreo .img, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .residuos .title, .analisis-monitoreo .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
       padding-right: 15px;
       padding-left: 15px; } }
   @media (min-width: 992px) {
-    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .politica-integrada-extra .item, .organizacion .title, .organizacion .ejecutivos, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .residuos .item, .tratamiento-riles .img, .tratamiento-riles .title, .tratamiento-riles .item, .analisis-monitoreo .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .sucursales .title, .sucursales .item, .col-11, .col-12, .residuos .img, .analisis-monitoreo .img, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .residuos .title, .analisis-monitoreo .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
       padding-right: 15px;
       padding-left: 15px; } }
   @media (min-width: 1200px) {
-    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .politica-integrada-extra .item, .organizacion .title, .organizacion .ejecutivos, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .residuos .item, .tratamiento-riles .img, .tratamiento-riles .title, .tratamiento-riles .item, .analisis-monitoreo .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .sucursales .title, .sucursales .item, .col-11, .col-12, .residuos .img, .analisis-monitoreo .img, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .residuos .title, .analisis-monitoreo .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
       padding-right: 15px;
       padding-left: 15px; } }
 
-.col, .home .text, .integrales-eficientes .title, .residuos .title, .analisis-monitoreo .title {
+.col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title {
   -ms-flex-preferred-size: 0;
       flex-basis: 0;
   -webkit-box-flex: 1;
@@ -787,7 +787,7 @@ pre {
           flex: 0 0 75%;
   max-width: 75%; }
 
-.col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .politica-integrada-extra .item, .organizacion .title, .organizacion .ejecutivos, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .residuos .item, .tratamiento-riles .img, .tratamiento-riles .title, .tratamiento-riles .item, .analisis-monitoreo .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .sucursales .title, .sucursales .item {
+.col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .sucursales .title {
   -webkit-box-flex: 0;
       -ms-flex: 0 0 83.33333%;
           flex: 0 0 83.33333%;
@@ -799,7 +799,7 @@ pre {
           flex: 0 0 91.66667%;
   max-width: 91.66667%; }
 
-.col-12, .residuos .img, .analisis-monitoreo .img, .footer .list, .footer .copyright {
+.col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright {
   -webkit-box-flex: 0;
       -ms-flex: 0 0 100%;
           flex: 0 0 100%;
@@ -883,7 +883,7 @@ pre {
 .push-12 {
   left: 100%; }
 
-.offset-1, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .politica-integrada-extra .item, .organizacion .title, .organizacion .ejecutivos, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .residuos .item, .tratamiento-riles .img, .tratamiento-riles .title, .tratamiento-riles .item, .analisis-monitoreo .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .sucursales .title, .sucursales .item {
+.offset-1, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .sucursales .title {
   margin-left: 8.33333%; }
 
 .offset-2 {
@@ -954,7 +954,7 @@ pre {
         -ms-flex: 0 0 41.66667%;
             flex: 0 0 41.66667%;
     max-width: 41.66667%; }
-  .col-sm-6, .organizacion .ejecutivos, .residuos .item, .analisis-monitoreo .item {
+  .col-sm-6, .organizacion .ejecutivos {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 50%;
             flex: 0 0 50%;
@@ -1041,7 +1041,7 @@ pre {
     left: 91.66667%; }
   .push-sm-12 {
     left: 100%; }
-  .offset-sm-0, .organizacion .title, .organizacion .ejecutivos {
+  .offset-sm-0, .organizacion .title {
     margin-left: 0%; }
   .offset-sm-1 {
     margin-left: 8.33333%; }
@@ -1089,17 +1089,17 @@ pre {
         -ms-flex: 0 0 16.66667%;
             flex: 0 0 16.66667%;
     max-width: 16.66667%; }
-  .col-md-3, .organizacion .ejecutivos {
+  .col-md-3, .organizacion .ejecutivos, .sucursales .item {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 25%;
             flex: 0 0 25%;
     max-width: 25%; }
-  .col-md-4 {
+  .col-md-4, .politica-integrada-extra .title {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 33.33333%;
             flex: 0 0 33.33333%;
     max-width: 33.33333%; }
-  .col-md-5 {
+  .col-md-5, .politica-integrada-extra .list {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 41.66667%;
             flex: 0 0 41.66667%;
@@ -1114,7 +1114,7 @@ pre {
         -ms-flex: 0 0 58.33333%;
             flex: 0 0 58.33333%;
     max-width: 58.33333%; }
-  .col-md-8 {
+  .col-md-8, .confiabilidad-responsabilidad .item, .politica-integrada .item, .experiencia-eficiencia .item, .laboratorios-certificados .item, .exitosas-experiencias .item {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 66.66667%;
             flex: 0 0 66.66667%;
@@ -1195,9 +1195,9 @@ pre {
     margin-left: 0%; }
   .offset-md-1 {
     margin-left: 8.33333%; }
-  .offset-md-2 {
+  .offset-md-2, .confiabilidad-responsabilidad .item, .politica-integrada .item, .politica-integrada-extra .title, .experiencia-eficiencia .item, .laboratorios-certificados .item, .exitosas-experiencias .item {
     margin-left: 16.66667%; }
-  .offset-md-3 {
+  .offset-md-3, .sucursales .item:first-child {
     margin-left: 25%; }
   .offset-md-4 {
     margin-left: 33.33333%; }
@@ -6739,8 +6739,14 @@ a:hover {
 
 hr {
   width: 20%;
+  max-width: 100px;
   border: 1px solid #a4e800;
-  border-radius: 5px; }
+  border-radius: 5px;
+  margin: 0 auto; }
+
+ul {
+  padding-left: 0;
+  list-style-type: none; }
 
 .home {
   background-image: url("../img/home.jpg");
@@ -6751,45 +6757,41 @@ hr {
   @media (min-width: 768px) {
     .home {
       background-attachment: fixed; } }
-  .home header .brand {
-    width: 200px;
-    padding-top: .2em; }
-    @media (min-width: 768px) {
-      .home header .brand {
-        width: 250px; } }
-  .home header button {
-    border-radius: 0;
-    padding: 0; }
-    .home header button span {
-      color: #a4e800;
-      font-size: 1.5em; }
-  .home header nav ul li {
-    text-align: center; }
-    .home header nav ul li a {
-      font-weight: 300;
-      font-size: 12px;
-      text-transform: uppercase;
-      color: #ffffff;
-      display: inline-block;
-      vertical-align: middle;
-      -webkit-transform: perspective(1px) translateZ(0);
-              transform: perspective(1px) translateZ(0);
-      overflow: hidden;
-      transition: all .2s; }
-      .home header nav ul li a:hover {
-        color: #4bc022;
-        position: relative; }
-        .home header nav ul li a:hover::before {
-          right: 0; }
-      .home header nav ul li a::before {
-        content: "";
-        position: absolute;
-        left: 0;
-        right: 100%;
-        bottom: 0;
-        background: #4bc022;
-        height: 2px;
-        transition: all .2s ease-out; }
+  .home header {
+    position: relative; }
+    .home header .brand {
+      width: 200px;
+      padding-top: .2em; }
+      @media (min-width: 768px) {
+        .home header .brand {
+          width: 250px; } }
+    .home header button {
+      border-radius: 0;
+      padding: 0; }
+      .home header button span {
+        color: #a4e800;
+        font-size: 1.5em; }
+    .home header nav ul li {
+      text-align: center; }
+      .home header nav ul li a {
+        font-weight: 400;
+        font-size: 12px;
+        text-transform: uppercase;
+        color: #ffffff;
+        display: inline-block;
+        transition: all .2s; }
+        .home header nav ul li a:hover::after {
+          -webkit-transform: scaleX(1);
+                  transform: scaleX(1); }
+        .home header nav ul li a::after {
+          width: 50px;
+          margin: 0 auto;
+          display: block;
+          content: '';
+          border-bottom: solid 1px #4bc022;
+          -webkit-transform: scaleX(0);
+                  transform: scaleX(0);
+          transition: all .2s; }
   .home .text {
     height: 90vh;
     display: -webkit-box;
@@ -6816,33 +6818,52 @@ hr {
           .home .text h1 span {
             font-size: 44px; } }
 
-.confiabilidad-responsabilidad .img img {
-  width: 200px;
-  margin: 3em 0; }
-
-.confiabilidad-responsabilidad .title {
-  margin-bottom: 3em; }
-  .confiabilidad-responsabilidad .title h3 {
-    text-align: center;
-    font-size: 22px;
-    font-weight: 400; }
-    @media (min-width: 768px) {
-      .confiabilidad-responsabilidad .title h3 br {
-        display: none; } }
-
-.confiabilidad-responsabilidad .item p {
-  font-size: 16px;
-  text-align: left; }
+.confiabilidad-responsabilidad {
+  padding-top: 3em;
+  padding-bottom: 3em;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+  .confiabilidad-responsabilidad .img img {
+    width: 200px; }
+  .confiabilidad-responsabilidad .title {
+    margin-top: 2em;
+    margin-bottom: 2em; }
+    .confiabilidad-responsabilidad .title h3 {
+      text-align: center;
+      font-size: 22px;
+      font-weight: 400; }
+      @media (min-width: 768px) {
+        .confiabilidad-responsabilidad .title h3 br {
+          display: none; } }
+  .confiabilidad-responsabilidad .item p {
+    font-size: 16px;
+    text-align: left; }
 
 .politica-integrada {
-  background: #4bc022;
   padding-top: 3em;
-  padding-bottom: 3em; }
+  padding-bottom: 3em;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+  .politica-integrada .img img {
+    width: 100%; }
+    @media (min-width: 768px) {
+      .politica-integrada .img img {
+        width: 50%; } }
   .politica-integrada .title {
-    margin-bottom: 3em; }
+    margin-top: 2em;
+    margin-bottom: 2em; }
     .politica-integrada .title h3 {
       text-align: center;
-      color: #ffffff;
       font-size: 22px;
       font-weight: 400; }
       @media (min-width: 768px) {
@@ -6850,19 +6871,28 @@ hr {
           display: none; } }
   .politica-integrada .item p {
     font-size: 16px;
-    text-align: left;
-    color: #ffffff; }
+    text-align: left; }
 
 .politica-integrada-extra {
   padding-top: 3em;
-  padding-bottom: 3em; }
+  padding-bottom: 3em;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
   .politica-integrada-extra .title {
     margin-bottom: 3em; }
     .politica-integrada-extra .title h3 {
       text-align: left;
       font-size: 18px;
       font-weight: 700; }
-  .politica-integrada-extra .item {
+      @media (min-width: 768px) {
+        .politica-integrada-extra .title h3 {
+          text-align: right; } }
+  .politica-integrada-extra .list .item {
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -6873,39 +6903,47 @@ hr {
     -webkit-box-align: start;
         -ms-flex-align: start;
             align-items: flex-start;
-    margin-bottom: 1em; }
-    .politica-integrada-extra .item img {
+    padding-bottom: 1em; }
+    .politica-integrada-extra .list .item img {
       margin-right: 1em;
       margin-top: 6px; }
-    .politica-integrada-extra .item p {
+    .politica-integrada-extra .list .item p {
       font-size: 16px;
       text-align: left; }
 
 .organizacion {
   padding-top: 3em;
-  padding-bottom: 3em; }
+  padding-bottom: 3em;
+  min-height: 70vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
   .organizacion .title h3 {
     font-size: 20px;
     font-weight: 400; }
+  .organizacion .title p {
+    margin-top: 2em; }
   .organizacion .ejecutivos {
     padding: 1em 0; }
     .organizacion .ejecutivos img {
       width: 50px;
-      margin-bottom: 1em; }
+      margin-bottom: 2em; }
+    .organizacion .ejecutivos p {
+      margin-bottom: 0; }
     .organizacion .ejecutivos .name {
       font-size: 18px;
       font-weight: 400;
       line-height: 1;
       margin-bottom: 0; }
 
-.integrales-eficientes .title {
+.integrales-eficientes {
   height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
@@ -6915,154 +6953,177 @@ hr {
   background-size: cover;
   background-attachment: scroll; }
   @media (min-width: 768px) {
-    .integrales-eficientes .title {
+    .integrales-eficientes {
       background-attachment: fixed; } }
-  .integrales-eficientes .title h2 {
-    color: #ffffff;
-    font-size: 24px;
-    font-weight: 300; }
-    .integrales-eficientes .title h2 span {
-      font-size: 32px;
-      font-weight: 700; }
+  .integrales-eficientes .title {
+    margin-bottom: 3em; }
+    .integrales-eficientes .title h2 {
+      color: #ffffff;
+      font-size: 24px;
+      font-weight: 300; }
+      .integrales-eficientes .title h2 span {
+        font-size: 32px;
+        font-weight: 700; }
+      @media (min-width: 768px) {
+        .integrales-eficientes .title h2 {
+          font-size: 40px; }
+          .integrales-eficientes .title h2 span {
+            font-size: 52px; } }
 
 .experiencia-eficiencia {
-  background: #1884fa;
-  padding-top: 3em; }
-  .experiencia-eficiencia .img img {
-    width: 200px;
-    margin: 3em 0; }
-  .experiencia-eficiencia .img:last-child img {
-    width: 100%;
-    margin: 0; }
-  .experiencia-eficiencia .title {
-    margin-bottom: 3em; }
-    .experiencia-eficiencia .title h3 {
-      text-align: center;
-      color: #ffffff;
-      font-size: 22px;
-      font-weight: 400; }
-  .experiencia-eficiencia .item p {
-    font-size: 16px;
-    text-align: left;
-    color: #ffffff; }
-
-.residuos .title {
-  height: 100vh;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  min-height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
   -webkit-box-align: center;
       -ms-flex-align: center;
-          align-items: center;
-  margin-bottom: 2em;
-  background-image: url(https://placeimg.com/640/480/nature);
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover; }
-  .residuos .title h2 {
-    color: #ffffff;
-    font-size: 24px;
-    font-weight: 300; }
-    .residuos .title h2 span {
-      font-size: 32px;
-      font-weight: 700; }
-
-.residuos .img {
-  padding-bottom: 2em; }
-  .residuos .img img {
+          align-items: center; }
+  .experiencia-eficiencia .img img {
     width: 100%; }
-
-.residuos .item {
-  padding: 2em 0; }
-  .residuos .item h3 {
-    font-size: 20px;
-    font-weight: 400; }
-
-.tratamiento-riles {
-  padding-top: 3em;
-  padding-bottom: 3em; }
-  .tratamiento-riles .img img {
-    width: 200px;
-    margin: 3em 0; }
-  .tratamiento-riles .title {
-    margin-bottom: 3em; }
-    .tratamiento-riles .title h3 {
+    @media (min-width: 768px) {
+      .experiencia-eficiencia .img img {
+        width: 50%; } }
+  .experiencia-eficiencia .title {
+    margin-top: 2em;
+    margin-bottom: 2em; }
+    .experiencia-eficiencia .title h3 {
       text-align: center;
       font-size: 22px;
       font-weight: 400; }
       @media (min-width: 768px) {
-        .tratamiento-riles .title h3 br {
+        .experiencia-eficiencia .title h3 br {
           display: none; } }
-  .tratamiento-riles .item p {
+  .experiencia-eficiencia .item p {
     font-size: 16px;
     text-align: left; }
-    .tratamiento-riles .item p span {
-      font-weight: 700;
-      text-transform: uppercase;
-      color: #4bc022; }
+    .experiencia-eficiencia .item p:last-child {
+      margin-bottom: 0; }
 
-.analisis-monitoreo .title {
+.analisis-monitoreo {
   height: 100vh;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
   background-image: url(https://placeimg.com/640/480/nature);
   background-repeat: no-repeat;
   background-position: center;
-  background-size: cover; }
-  .analisis-monitoreo .title h2 {
-    color: #ffffff;
-    font-size: 24px;
-    font-weight: 300; }
-    .analisis-monitoreo .title h2 span {
-      font-size: 32px;
-      font-weight: 700; }
-
-.analisis-monitoreo .img {
-  padding-bottom: 2em; }
-  .analisis-monitoreo .img img {
-    width: 100%; }
-
-.analisis-monitoreo .item {
-  padding: 2em 0; }
-  .analisis-monitoreo .item h3 {
-    font-size: 20px;
-    font-weight: 400; }
-  .analisis-monitoreo .item ul {
-    list-style-type: none;
-    padding-left: 0; }
-    .analisis-monitoreo .item ul li {
-      padding: .5em 0; }
+  background-size: cover;
+  background-attachment: scroll; }
+  @media (min-width: 768px) {
+    .analisis-monitoreo {
+      background-attachment: fixed; } }
+  .analisis-monitoreo .title {
+    margin-bottom: 3em; }
+    .analisis-monitoreo .title h2 {
+      color: #ffffff;
+      font-size: 24px;
+      font-weight: 300; }
+      .analisis-monitoreo .title h2 span {
+        font-size: 32px;
+        font-weight: 700; }
+      @media (min-width: 768px) {
+        .analisis-monitoreo .title h2 {
+          font-size: 40px; }
+          .analisis-monitoreo .title h2 span {
+            font-size: 52px; } }
 
 .laboratorios-certificados {
-  background: #4bc022;
-  padding-top: 3em; }
+  padding-top: 3em;
+  padding-bottom: 3em;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
   .laboratorios-certificados .img img {
-    width: 200px;
-    margin: 3em 0; }
-  .laboratorios-certificados .img:last-child img {
-    width: 100%;
-    margin: 0; }
+    width: 100%; }
+    @media (min-width: 768px) {
+      .laboratorios-certificados .img img {
+        width: 50%; } }
   .laboratorios-certificados .title {
-    margin-bottom: 3em; }
+    margin-top: 2em;
+    margin-bottom: 2em; }
     .laboratorios-certificados .title h3 {
       text-align: center;
-      color: #ffffff;
       font-size: 22px;
       font-weight: 400; }
+      @media (min-width: 768px) {
+        .laboratorios-certificados .title h3 br {
+          display: none; } }
   .laboratorios-certificados .item p {
     font-size: 16px;
-    text-align: left;
-    color: #ffffff; }
+    text-align: left; }
+    .laboratorios-certificados .item p:last-child {
+      margin-bottom: 0; }
+
+.residuos {
+  height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-image: url(https://placeimg.com/640/480/nature);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: scroll; }
+  @media (min-width: 768px) {
+    .residuos {
+      background-attachment: fixed; } }
+  .residuos .title {
+    margin-bottom: 3em; }
+    .residuos .title h2 {
+      color: #ffffff;
+      font-size: 24px;
+      font-weight: 300; }
+      .residuos .title h2 span {
+        font-size: 32px;
+        font-weight: 700; }
+      @media (min-width: 768px) {
+        .residuos .title h2 {
+          font-size: 40px; }
+          .residuos .title h2 span {
+            font-size: 52px; } }
+
+.exitosas-experiencias {
+  padding-top: 3em;
+  padding-bottom: 3em;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+  .exitosas-experiencias .img img {
+    width: 100%; }
+    @media (min-width: 768px) {
+      .exitosas-experiencias .img img {
+        width: 50%; } }
+  .exitosas-experiencias .title {
+    margin-top: 2em;
+    margin-bottom: 2em; }
+    .exitosas-experiencias .title h3 {
+      text-align: center;
+      font-size: 22px;
+      font-weight: 400; }
+      @media (min-width: 768px) {
+        .exitosas-experiencias .title h3 br {
+          display: none; } }
+  .exitosas-experiencias .item p {
+    font-size: 16px;
+    text-align: left; }
+    .exitosas-experiencias .item p:last-child {
+      margin-bottom: 0; }
 
 .sucursales {
   padding-top: 3em;
@@ -7071,27 +7132,23 @@ hr {
     text-align: center;
     font-size: 22px;
     font-weight: 400; }
-  .sucursales .img {
-    display: block;
-    margin: 3em auto; }
-    .sucursales .img img {
-      width: 100px; }
-    .sucursales .img:last-child img {
-      width: 100%;
-      margin: 0; }
-  .sucursales .item ul {
-    padding-left: 0;
-    list-style-type: none; }
-    .sucursales .item ul li {
-      font-size: 16px;
-      text-align: center; }
-      .sucursales .item ul li .title {
-        text-transform: uppercase;
-        font-weight: 400;
-        margin-bottom: 0; }
-      .sucursales .item ul li .contact {
-        margin-bottom: 0;
-        font-weight: 400; }
+  .sucursales .item {
+    margin-top: 2em;
+    font-size: 16px;
+    text-align: center; }
+    .sucursales .item img {
+      width: 80px;
+      border-radius: 50%; }
+    .sucursales .item .city {
+      text-transform: uppercase;
+      font-weight: 400;
+      margin-top: 1em;
+      margin-bottom: 0; }
+  .sucursales .contact {
+    margin-top: 1em; }
+    .sucursales .contact p {
+      margin-bottom: 0;
+      font-weight: 400; }
 
 .footer {
   padding-top: 3em;
@@ -7109,21 +7166,23 @@ hr {
           margin: 0 1em; } }
     .footer ul a {
       color: #ffffff;
-      font-weight: 300; }
+      font-weight: 300;
+      transition: all .3s; }
       .footer ul a:hover {
+        cursor: pointer;
         color: #3bcbff; }
   .footer img {
     width: 40px; }
-  .footer .copyright {
-    font-size: 18px;
+  .footer .copyright ul li {
+    font-size: 16px;
     font-weight: 300; }
-    .footer .copyright span {
-      display: none; }
-    @media (min-width: 576px) {
-      .footer .copyright span {
-        display: inline; }
-      .footer .copyright br {
-        display: none; } }
+  .footer .copyright ul span {
+    display: none; }
+  @media (min-width: 576px) {
+    .footer .copyright ul span {
+      display: inline; }
+    .footer .copyright ul br {
+      display: none; } }
 
 @font-face {
   font-family: 'icons';

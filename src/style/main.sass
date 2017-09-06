@@ -35,8 +35,14 @@ a
 
 hr
   width: 20%
+  max-width: 100px
   border: 1px solid $verde-claro
   border-radius: 5px
+  margin: 0 auto
+
+ul
+  padding-left: 0
+  list-style-type: none
 
 // Home
 .home
@@ -51,6 +57,7 @@ hr
 
   // Header
   header
+    position: relative
     .brand
       width: 200px
       padding-top: .2em
@@ -64,6 +71,19 @@ hr
         color: $verde-claro
         font-size: 1.5em
     nav
+      // &.mobile
+      //   position: absolute
+      //   top: 0
+      //   left: 0
+      //   width: 100%
+      //   height: 100vh
+      //   z-index: 10
+      //   background: rgba(255, 255, 255, .95)
+      //   padding-top: 3em
+      //   a
+      //     color: $azul
+      //     padding: 1em
+      //     font-size: 1.2em
       ul
         @extend .ml-auto
         li
@@ -72,29 +92,23 @@ hr
           a
             @extend .nav-link
             font:
-              weight: 300
+              weight: 400
               size: 12px
             text-transform: uppercase
             color: $blanco
             display: inline-block
-            vertical-align: middle
-            transform: perspective(1px) translateZ(0)
-            overflow: hidden
             transition: all .2s
             &:hover
-              color: $verde
-              position: relative
-              &::before
-                right: 0
-            &::before
-              content: ""
-              position: absolute
-              left: 0
-              right: 100%
-              bottom: 0
-              background: $verde
-              height: 2px
-              transition: all .2s ease-out
+              &::after
+                transform: scaleX(1)
+            &::after
+              width: 50px
+              margin: 0 auto
+              display: block
+              content: ''
+              border-bottom: solid 1px $verde
+              transform: scaleX(0)
+              transition: all .2s
 
 
   // Principal text
@@ -121,16 +135,21 @@ hr
 
 // APORTAMOS SOSTENIBILIDAD Y DESARROLLO A INDUSTRIAS Y CIUDADES
 .confiabilidad-responsabilidad
+  padding-top: 3em
+  padding-bottom: 3em
+  min-height: 100vh
+  display: flex
+  align-items: center
   .img
     @extend .col-10
     @extend .offset-1
     img
       width: 200px
-      margin: 3em 0
   .title
     @extend .col-10
     @extend .offset-1
-    margin-bottom: 3em
+    margin-top: 2em
+    margin-bottom: 2em
     h3
       text-align: center
       font:
@@ -142,36 +161,33 @@ hr
   .item
     @extend .col-10
     @extend .offset-1
+    @extend .col-md-8
+    @extend .offset-md-2
     p
       font-size: 16px
       text-align: left
-    // a
-    //   color: $verde
-    //   overflow: hidden
-    //   position: relative
-    //   &::before
-    //     font-family: 'icons'
-    //     content: "\e90d"
-    //     position: absolute
-    //     top: -2px
-    //     left: 60px
-    //     transition: all .2s ease
-    //   &:hover
-    //     &::before
-    //       left: 70px
 
 // Política integrada a la empresa
 .politica-integrada
-  background: $verde
   padding-top: 3em
   padding-bottom: 3em
+  min-height: 100vh
+  display: flex
+  align-items: center
+  .img
+    @extend .col-10
+    @extend .offset-1
+    img
+      width: 100%
+      @include media-breakpoint-up(md)
+        width: 50%
   .title
     @extend .col-10
     @extend .offset-1
-    margin-bottom: 3em
+    margin-top: 2em
+    margin-bottom: 2em
     h3
       text-align: center
-      color: $blanco
       font:
         size: 22px
         weight: 400
@@ -181,42 +197,53 @@ hr
   .item
     @extend .col-10
     @extend .offset-1
+    @extend .col-md-8
+    @extend .offset-md-2
     p
       font-size: 16px
       text-align: left
-      color: $blanco
 
 // Política integrada a la empresa - Extra
 .politica-integrada-extra
   padding-top: 3em
   padding-bottom: 3em
+  min-height: 100vh
+  display: flex
+  align-items: center
   .title
     @extend .col-10
     @extend .offset-1
+    @extend .col-md-4
+    @extend .offset-md-2
     margin-bottom: 3em
     h3
       text-align: left
+      @include media-breakpoint-up(md)
+        text-align: right
       font:
         size: 18px
         weight: 700
-  .item
-    @extend .col-10
-    @extend .offset-1
-    display: flex
-    flex-direction: row
-    align-items: flex-start
-    margin-bottom: 1em
-    img
-      margin-right: 1em
-      margin-top: 6px
-    p
-      font-size: 16px
-      text-align: left
+  .list
+    @extend .col-md-5
+    .item
+      display: flex
+      flex-direction: row
+      align-items: flex-start
+      padding-bottom: 1em
+      img
+        margin-right: 1em
+        margin-top: 6px
+      p
+        font-size: 16px
+        text-align: left
 
 // ORGANIZACIÓN
 .organizacion
   padding-top: 3em
   padding-bottom: 3em
+  min-height: 70vh
+  display: flex
+  align-items: center
   .title
     @extend .col-10
     @extend .offset-1
@@ -226,16 +253,18 @@ hr
       font:
         size: 20px
         weight: 400
+    p
+      margin-top: 2em
   .ejecutivos
-    @extend .col-10
-    @extend .offset-1
-    @extend .offset-sm-0
+    @extend .col-12
     @extend .col-sm-6
     @extend .col-md-3
     padding: 1em 0
     img
       width: 50px
-      margin-bottom: 1em
+      margin-bottom: 2em
+    p
+      margin-bottom: 0
     .name
       font:
         size: 18px
@@ -245,20 +274,20 @@ hr
 
 //  SOLUCIONES INTEGRALES EFICIENTES Y AMBIENTALMENTE SEGURAS
 .integrales-eficientes
+  height: 100vh
+  display: flex
+  align-items: center
+  background:
+    image: url(https://placeimg.com/640/480/nature)
+    repeat: no-repeat
+    position: center
+    size: cover
+    attachment: scroll
+  @include media-breakpoint-up(md)
+    background-attachment: fixed
   .title
     @extend .col
-    height: 100vh
-    display: flex
-    justify-content: center
-    align-items: center
-    background:
-      image: url(https://placeimg.com/640/480/nature)
-      repeat: no-repeat
-      position: center
-      size: cover
-      attachment: scroll
-    @include media-breakpoint-up(md)
-      background-attachment: fixed
+    margin-bottom: 3em
     h2
       color: $blanco
       font:
@@ -268,91 +297,30 @@ hr
         font:
           size: 32px
           weight: 700
+      @include media-breakpoint-up(md)
+        font-size: 40px
+        span
+          font-size: 52px
 
 // EXPERIENCIA Y EFICIENCIA EN EL MANEJO DE RILES
 .experiencia-eficiencia
-  background: $azul
-  padding-top: 3em
-  .img
-    @extend .col-10
-    @extend .offset-1
-    img
-      width: 200px
-      margin: 3em 0
-    &:last-child
-      img
-        width: 100%
-        margin: 0
-  .title
-    @extend .col-10
-    @extend .offset-1
-    margin-bottom: 3em
-    h3
-      text-align: center
-      color: $blanco
-      font:
-        size: 22px
-        weight: 400
-  .item
-    @extend .col-10
-    @extend .offset-1
-    p
-      font-size: 16px
-      text-align: left
-      color: $blanco
-
-//  VALORIZAMOS SUS RESIDUOS PARA TRANSFORMARLOS EN ACTIVOS
-.residuos
-  .title
-    @extend .col
-    height: 100vh
-    display: flex
-    justify-content: center
-    align-items: center
-    margin-bottom: 2em
-    background:
-      image: url(https://placeimg.com/640/480/nature)
-      repeat: no-repeat
-      position: center
-      size: cover
-    h2
-      color: $blanco
-      font:
-        size: 24px
-        weight: 300
-      span
-        font:
-          size: 32px
-          weight: 700
-  .img
-    @extend .col-12
-    padding-bottom: 2em
-    img
-      width: 100%
-  .item
-    @extend .col-10
-    @extend .offset-1
-    @extend .col-sm-6
-    padding: 2em 0
-    h3
-      font:
-        size: 20px
-        weight: 400
-
-// TRATAMIENTO DE RILES ESPECIALES
-.tratamiento-riles
   padding-top: 3em
   padding-bottom: 3em
+  min-height: 100vh
+  display: flex
+  align-items: center
   .img
     @extend .col-10
     @extend .offset-1
     img
-      width: 200px
-      margin: 3em 0
+      width: 100%
+      @include media-breakpoint-up(md)
+        width: 50%
   .title
     @extend .col-10
     @extend .offset-1
-    margin-bottom: 3em
+    margin-top: 2em
+    margin-bottom: 2em
     h3
       text-align: center
       font:
@@ -364,27 +332,30 @@ hr
   .item
     @extend .col-10
     @extend .offset-1
+    @extend .col-md-8
+    @extend .offset-md-2
     p
       font-size: 16px
       text-align: left
-      span
-        font-weight: 700
-        text-transform: uppercase
-        color: $verde
+      &:last-child
+        margin-bottom: 0
 
 //  ESPECIALISTAS EN ANÁLISIS Y MONITOREO DE AGUAS
 .analisis-monitoreo
+  height: 100vh
+  display: flex
+  align-items: center
+  background:
+    image: url(https://placeimg.com/640/480/nature)
+    repeat: no-repeat
+    position: center
+    size: cover
+    attachment: scroll
+  @include media-breakpoint-up(md)
+    background-attachment: fixed
   .title
     @extend .col
-    height: 100vh
-    display: flex
-    justify-content: center
-    align-items: center
-    background:
-      image: url(https://placeimg.com/640/480/nature)
-      repeat: no-repeat
-      position: center
-      size: cover
+    margin-bottom: 3em
     h2
       color: $blanco
       font:
@@ -394,57 +365,116 @@ hr
         font:
           size: 32px
           weight: 700
-  .img
-    @extend .col-12
-    padding-bottom: 2em
-    img
-      width: 100%
-  .item
-    @extend .col-10
-    @extend .offset-1
-    @extend .col-sm-6
-    padding: 2em 0
-    h3
-      font:
-        size: 20px
-        weight: 400
-    ul
-      list-style-type: none
-      padding-left: 0
-      li
-        padding: .5em 0
+      @include media-breakpoint-up(md)
+        font-size: 40px
+        span
+          font-size: 52px
 
 // LABORATORIOS CERTIFICADOS
 .laboratorios-certificados
-  background: $verde
   padding-top: 3em
+  padding-bottom: 3em
+  min-height: 100vh
+  display: flex
+  align-items: center
   .img
     @extend .col-10
     @extend .offset-1
     img
-      width: 200px
-      margin: 3em 0
-    &:last-child
-      img
-        width: 100%
-        margin: 0
+      width: 100%
+      @include media-breakpoint-up(md)
+        width: 50%
   .title
     @extend .col-10
     @extend .offset-1
-    margin-bottom: 3em
+    margin-top: 2em
+    margin-bottom: 2em
     h3
       text-align: center
-      color: $blanco
       font:
         size: 22px
         weight: 400
+      @include media-breakpoint-up(md)
+        br
+          display: none
   .item
     @extend .col-10
     @extend .offset-1
+    @extend .col-md-8
+    @extend .offset-md-2
     p
       font-size: 16px
       text-align: left
+      &:last-child
+        margin-bottom: 0
+
+//  VALORIZAMOS SUS RESIDUOS PARA TRANSFORMARLOS EN ACTIVOS
+.residuos
+  height: 100vh
+  display: flex
+  align-items: center
+  background:
+    image: url(https://placeimg.com/640/480/nature)
+    repeat: no-repeat
+    position: center
+    size: cover
+    attachment: scroll
+  @include media-breakpoint-up(md)
+    background-attachment: fixed
+  .title
+    @extend .col
+    margin-bottom: 3em
+    h2
       color: $blanco
+      font:
+        size: 24px
+        weight: 300
+      span
+        font:
+          size: 32px
+          weight: 700
+      @include media-breakpoint-up(md)
+        font-size: 40px
+        span
+          font-size: 52px
+
+// EXITOSAS EXPERIENCIAS DE APLICACIÓN DE LODOS
+.exitosas-experiencias
+  padding-top: 3em
+  padding-bottom: 3em
+  min-height: 100vh
+  display: flex
+  align-items: center
+  .img
+    @extend .col-10
+    @extend .offset-1
+    img
+      width: 100%
+      @include media-breakpoint-up(md)
+        width: 50%
+  .title
+    @extend .col-10
+    @extend .offset-1
+    margin-top: 2em
+    margin-bottom: 2em
+    h3
+      text-align: center
+      font:
+        size: 22px
+        weight: 400
+      @include media-breakpoint-up(md)
+        br
+          display: none
+  .item
+    @extend .col-10
+    @extend .offset-1
+    @extend .col-md-8
+    @extend .offset-md-2
+    p
+      font-size: 16px
+      text-align: left
+      &:last-child
+        margin-bottom: 0
 
 // SUCURSALES
 .sucursales
@@ -458,33 +488,29 @@ hr
       font:
         size: 22px
         weight: 400
-  .img
-    display: block
-    margin: 3em auto
-    img
-      width: 100px
-    &:last-child
-      img
-        width: 100%
-        margin: 0
-
   .item
-    @extend .col-10
-    @extend .offset-1
-    ul
-      padding-left: 0
-      list-style-type: none
-      li
-        .title
-          text-transform: uppercase
-          font-weight: 400
-          margin-bottom: 0
-        .contact
-          margin-bottom: 0
-          font-weight: 400
-        p
-        font-size: 16px
-        text-align: center
+    @extend .col-12
+    @extend .col-md-3
+    &:first-child
+      @extend .offset-md-3
+    margin-top: 2em
+    img
+      width: 80px
+      border-radius: 50%
+    p
+    font-size: 16px
+    text-align: center
+    .city
+      text-transform: uppercase
+      font-weight: 400
+      margin-top: 1em
+      margin-bottom: 0
+  .contact
+    @extend .col-12
+    margin-top: 1em
+    p
+      margin-bottom: 0
+      font-weight: 400
 
 // Footer
 .footer
@@ -505,21 +531,25 @@ hr
     a
       color: $blanco
       font-weight: 300
+      transition: all .3s
       &:hover
+        cursor: pointer
         color: $azul-claro
   img
     width: 40px
   .copyright
-    font-size: 18px
-    font-weight: 300
     @extend .col-12
-    span
-      display: none
-    @include media-breakpoint-up(sm)
+    ul
+      li
+        font-size: 16px
+        font-weight: 300
       span
-        display: inline
-      br
         display: none
+      @include media-breakpoint-up(sm)
+        span
+          display: inline
+        br
+          display: none
 
 @import "fonts"
 @import "animate"
