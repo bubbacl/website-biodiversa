@@ -233,6 +233,7 @@ ul
       img
         margin-right: 1em
         margin-top: 6px
+        width: 20px
       p
         font-size: 16px
         text-align: left
@@ -408,6 +409,48 @@ ul
       &:last-child
         margin-bottom: 0
 
+// UBICACIÓN DE LABORATORIOS
+.ubicacion-laboratorios
+  padding-top: 3em
+  padding-bottom: 3em
+  min-height: 80vh
+  display: flex
+  align-items: center
+  .title
+    @extend .col-10
+    @extend .offset-1
+    margin-top: 2em
+    margin-bottom: 2em
+    h3
+      text-align: center
+      font:
+        size: 22px
+        weight: 400
+      @include media-breakpoint-up(md)
+        br
+          display: none
+  .item
+    @extend .col-10
+    @extend .offset-1
+    @extend .col-md-2
+    @extend .offset-md-1
+    &:last-child
+      @extend .col-md-5
+      @extend .offset-md-0
+    img
+      width: 30%
+      @include media-breakpoint-up(md)
+        width: 70%
+    ul
+      li
+        text-align: left
+        margin-bottom: 1em
+    p
+      font-size: 16px
+      text-align: left
+      &:last-child
+        margin-bottom: 0
+
 //  VALORIZAMOS SUS RESIDUOS PARA TRANSFORMARLOS EN ACTIVOS
 .residuos
   height: 100vh
@@ -452,6 +495,53 @@ ul
       width: 100%
       @include media-breakpoint-up(md)
         width: 50%
+  .title
+    @extend .col-10
+    @extend .offset-1
+    margin-top: 2em
+    margin-bottom: 2em
+    h3
+      text-align: center
+      font:
+        size: 22px
+        weight: 400
+      @include media-breakpoint-up(md)
+        br
+          display: none
+  .item
+    @extend .col-10
+    @extend .offset-1
+    @extend .col-md-8
+    @extend .offset-md-2
+    p
+      font-size: 16px
+      text-align: left
+      &:last-child
+        margin-bottom: 0
+
+// SERVICIOS
+.servicios
+  padding-top: 3em
+  padding-bottom: 3em
+  min-height: 100vh
+  display: flex
+  align-items: center
+  .img
+    @extend .col-10
+    @extend .offset-1
+    img
+      margin: 0 auto
+      &.mobile
+        display: block
+        max-height: 80vh
+      &.desktop
+        display: none
+      @include media-breakpoint-up(md)
+        &.mobile
+          display: none
+        &.desktop
+          max-width: 80%
+          display: block
   .title
     @extend .col-10
     @extend .offset-1

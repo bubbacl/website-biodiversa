@@ -696,26 +696,26 @@ pre {
     padding-right: 0;
     padding-left: 0; }
 
-.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
+.col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .ubicacion-laboratorios .title, .ubicacion-laboratorios .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .servicios .img, .servicios .title, .servicios .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .ubicacion-laboratorios .item:last-child, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
   position: relative;
   width: 100%;
   min-height: 1px;
   padding-right: 15px;
   padding-left: 15px; }
   @media (min-width: 576px) {
-    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .ubicacion-laboratorios .title, .ubicacion-laboratorios .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .servicios .img, .servicios .title, .servicios .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .ubicacion-laboratorios .item:last-child, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
       padding-right: 15px;
       padding-left: 15px; } }
   @media (min-width: 768px) {
-    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .ubicacion-laboratorios .title, .ubicacion-laboratorios .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .servicios .img, .servicios .title, .servicios .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .ubicacion-laboratorios .item:last-child, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
       padding-right: 15px;
       padding-left: 15px; } }
   @media (min-width: 992px) {
-    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .ubicacion-laboratorios .title, .ubicacion-laboratorios .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .servicios .img, .servicios .title, .servicios .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .ubicacion-laboratorios .item:last-child, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
       padding-right: 15px;
       padding-left: 15px; } }
   @media (min-width: 1200px) {
-    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
+    .col-1, .col-2, .col-3, .col-4, .col-5, .col-6, .col-7, .col-8, .col-9, .col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .ubicacion-laboratorios .title, .ubicacion-laboratorios .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .servicios .img, .servicios .title, .servicios .item, .sucursales .title, .col-11, .col-12, .organizacion .ejecutivos, .sucursales .item, .sucursales .contact, .footer .list, .footer .copyright, .col, .home .text, .integrales-eficientes .title, .analisis-monitoreo .title, .residuos .title, .col-sm-1, .col-sm-2, .col-sm-3, .col-sm-4, .col-sm-5, .col-sm-6, .col-sm-7, .col-sm-8, .col-sm-9, .col-sm-10, .col-sm-11, .col-sm-12, .col-sm, .col-md-1, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .politica-integrada-extra .list, .ubicacion-laboratorios .item:last-child, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .col-md-10, .col-md-11, .col-md-12, .col-md, .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .col-lg, .col-xl-1, .col-xl-2, .col-xl-3, .col-xl-4, .col-xl-5, .col-xl-6, .col-xl-7, .col-xl-8, .col-xl-9, .col-xl-10, .col-xl-11, .col-xl-12, .col-xl {
       padding-right: 15px;
       padding-left: 15px; } }
 
@@ -787,7 +787,7 @@ pre {
           flex: 0 0 75%;
   max-width: 75%; }
 
-.col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .sucursales .title {
+.col-10, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .ubicacion-laboratorios .title, .ubicacion-laboratorios .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .servicios .img, .servicios .title, .servicios .item, .sucursales .title {
   -webkit-box-flex: 0;
       -ms-flex: 0 0 83.33333%;
           flex: 0 0 83.33333%;
@@ -883,7 +883,7 @@ pre {
 .push-12 {
   left: 100%; }
 
-.offset-1, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .sucursales .title {
+.offset-1, .confiabilidad-responsabilidad .img, .confiabilidad-responsabilidad .title, .confiabilidad-responsabilidad .item, .politica-integrada .img, .politica-integrada .title, .politica-integrada .item, .politica-integrada-extra .title, .organizacion .title, .experiencia-eficiencia .img, .experiencia-eficiencia .title, .experiencia-eficiencia .item, .laboratorios-certificados .img, .laboratorios-certificados .title, .laboratorios-certificados .item, .ubicacion-laboratorios .title, .ubicacion-laboratorios .item, .exitosas-experiencias .img, .exitosas-experiencias .title, .exitosas-experiencias .item, .servicios .img, .servicios .title, .servicios .item, .sucursales .title {
   margin-left: 8.33333%; }
 
 .offset-2 {
@@ -1084,7 +1084,7 @@ pre {
         -ms-flex: 0 0 8.33333%;
             flex: 0 0 8.33333%;
     max-width: 8.33333%; }
-  .col-md-2 {
+  .col-md-2, .ubicacion-laboratorios .item {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 16.66667%;
             flex: 0 0 16.66667%;
@@ -1099,7 +1099,7 @@ pre {
         -ms-flex: 0 0 33.33333%;
             flex: 0 0 33.33333%;
     max-width: 33.33333%; }
-  .col-md-5, .politica-integrada-extra .list {
+  .col-md-5, .politica-integrada-extra .list, .ubicacion-laboratorios .item:last-child {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 41.66667%;
             flex: 0 0 41.66667%;
@@ -1114,7 +1114,7 @@ pre {
         -ms-flex: 0 0 58.33333%;
             flex: 0 0 58.33333%;
     max-width: 58.33333%; }
-  .col-md-8, .confiabilidad-responsabilidad .item, .politica-integrada .item, .experiencia-eficiencia .item, .laboratorios-certificados .item, .exitosas-experiencias .item {
+  .col-md-8, .confiabilidad-responsabilidad .item, .politica-integrada .item, .experiencia-eficiencia .item, .laboratorios-certificados .item, .exitosas-experiencias .item, .servicios .item {
     -webkit-box-flex: 0;
         -ms-flex: 0 0 66.66667%;
             flex: 0 0 66.66667%;
@@ -1191,11 +1191,11 @@ pre {
     left: 91.66667%; }
   .push-md-12 {
     left: 100%; }
-  .offset-md-0 {
+  .offset-md-0, .ubicacion-laboratorios .item:last-child {
     margin-left: 0%; }
-  .offset-md-1 {
+  .offset-md-1, .ubicacion-laboratorios .item {
     margin-left: 8.33333%; }
-  .offset-md-2, .confiabilidad-responsabilidad .item, .politica-integrada .item, .politica-integrada-extra .title, .experiencia-eficiencia .item, .laboratorios-certificados .item, .exitosas-experiencias .item {
+  .offset-md-2, .confiabilidad-responsabilidad .item, .politica-integrada .item, .politica-integrada-extra .title, .experiencia-eficiencia .item, .laboratorios-certificados .item, .exitosas-experiencias .item, .servicios .item {
     margin-left: 16.66667%; }
   .offset-md-3, .sucursales .item:first-child {
     margin-left: 25%; }
@@ -6906,7 +6906,8 @@ ul {
     padding-bottom: 1em; }
     .politica-integrada-extra .list .item img {
       margin-right: 1em;
-      margin-top: 6px; }
+      margin-top: 6px;
+      width: 20px; }
     .politica-integrada-extra .list .item p {
       font-size: 16px;
       text-align: left; }
@@ -7063,6 +7064,40 @@ ul {
     .laboratorios-certificados .item p:last-child {
       margin-bottom: 0; }
 
+.ubicacion-laboratorios {
+  padding-top: 3em;
+  padding-bottom: 3em;
+  min-height: 80vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+  .ubicacion-laboratorios .title {
+    margin-top: 2em;
+    margin-bottom: 2em; }
+    .ubicacion-laboratorios .title h3 {
+      text-align: center;
+      font-size: 22px;
+      font-weight: 400; }
+      @media (min-width: 768px) {
+        .ubicacion-laboratorios .title h3 br {
+          display: none; } }
+  .ubicacion-laboratorios .item img {
+    width: 30%; }
+    @media (min-width: 768px) {
+      .ubicacion-laboratorios .item img {
+        width: 70%; } }
+  .ubicacion-laboratorios .item ul li {
+    text-align: left;
+    margin-bottom: 1em; }
+  .ubicacion-laboratorios .item p {
+    font-size: 16px;
+    text-align: left; }
+    .ubicacion-laboratorios .item p:last-child {
+      margin-bottom: 0; }
+
 .residuos {
   height: 100vh;
   display: -webkit-box;
@@ -7123,6 +7158,45 @@ ul {
     font-size: 16px;
     text-align: left; }
     .exitosas-experiencias .item p:last-child {
+      margin-bottom: 0; }
+
+.servicios {
+  padding-top: 3em;
+  padding-bottom: 3em;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center; }
+  .servicios .img img {
+    margin: 0 auto; }
+    .servicios .img img.mobile {
+      display: block;
+      max-height: 80vh; }
+    .servicios .img img.desktop {
+      display: none; }
+    @media (min-width: 768px) {
+      .servicios .img img.mobile {
+        display: none; }
+      .servicios .img img.desktop {
+        max-width: 80%;
+        display: block; } }
+  .servicios .title {
+    margin-top: 2em;
+    margin-bottom: 2em; }
+    .servicios .title h3 {
+      text-align: center;
+      font-size: 22px;
+      font-weight: 400; }
+      @media (min-width: 768px) {
+        .servicios .title h3 br {
+          display: none; } }
+  .servicios .item p {
+    font-size: 16px;
+    text-align: left; }
+    .servicios .item p:last-child {
       margin-bottom: 0; }
 
 .sucursales {
