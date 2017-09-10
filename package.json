@@ -21,10 +21,8 @@
     "gulp-rename": "1.2.2",
     "gulp-sass": "^2.3.2",
     "gulp-uglify": "^3.0.0",
+    "midnight.js": "^1.1.1",
     "node-sass": "^4.5.3",
     "open-color": "^1.5.1"
-  },
-  "devDependencies": {
-    "gulp-sass": "^2.3.2"
   }
 }
