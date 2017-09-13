@@ -1,6 +1,6 @@
 <?php
    //Reseteamos variables a 0.
-   $name = $email = $tel = $message = $para = $headers = $msjCorreo = NULL;
+   $name = $email = $tel = $message = $client = $headers = $msjCorreo = NULL;
 
    if (isset($_POST['submit'])) {
       //Obtenemos valores input formulario
