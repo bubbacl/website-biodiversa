@@ -2,12 +2,12 @@
    //Reseteamos variables a 0.
    $name = $email = $tel = $message = $client = $headers = $msjCorreo = NULL;
 
-   if (isset($_POST['submit'])) {
+   if (isset($_GET['submit'])) {
       //Obtenemos valores input formulario
-      $name = $_POST['name'];
-      $email = $_POST['email'];
-      $tel = $_POST['tel'];
-      $message = $_POST['message'];
+      $name = $_GET['name'];
+      $email = $_GET['email'];
+      $tel = $_GET['tel'];
+      $message = $_GET['message'];
       $client = 'rodrigo@bubbastudios.cl';
 
       //Creamos cabecera.
